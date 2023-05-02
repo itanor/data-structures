@@ -1,0 +1,1 @@
+gcc stack.c linked-list.c main.c -o main.out
